@@ -1,6 +1,5 @@
 # ToDoList MERN-Stack
 
-![Main Screenshot](.readme/1.png)
 
 
 ## Introduction
@@ -21,6 +20,4 @@ This is a MERN stack project. MERN stands for MongoDB, Express.js, React, and No
 - Install the dependencies: `npm install`
 - Start the development server: `npm start`
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
